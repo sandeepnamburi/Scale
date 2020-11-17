@@ -1,0 +1,23 @@
+Row Number,Task ID,Severity,UUID,Associated Problem Description
+1,5f127f6f26831d0010e985e5,Critical,ada7893a-3ee1-4d69-b06b-87240a9522cd,Traffic control sign is a non-traditional color. Check if sign color is yellow
+2,5f127f6f26831d0010e985e5,Warning,1b048402-5527-4b89-8a76-09fbe61735a0,"Object with non-visible face, high occlusion, and no background color - Double check if object is a traffic sign"
+3,5f127f6c3a6b1000172320ad,Critical,8f9e0df3-7534-46ab-b7b4-dbae311c88cd,Traffic control sign is a non-traditional color. Check if sign color is not_applicable
+4,5f127f6c3a6b1000172320ad,Critical,dda85426-ba5f-4910-b92b-e50fc0bfb793,Traffic control sign is a non-traditional color. Check if sign color is not_applicable
+5,5f127f6c3a6b1000172320ad,Critical,0bc2ab2c-16b0-461e-8866-08f3bdc87238,Traffic control sign is a non-traditional color. Check if sign color is not_applicable
+6,5f127f699740b80017f9b170,Critical,Not Applicable,Audit was rejected by customer
+7,5f127f671ab28b001762c204,Warning,af326982-eaf5-44c1-92dd-13b6ab715c4d,"Object with non-visible face, high occlusion, and no background color - Double check if object is a traffic sign"
+8,5f127f671ab28b001762c204,Warning,23982f64-a487-45ba-9114-2e87431f6cda,"Object with non-visible face, high occlusion, and no background color - Double check if object is a traffic sign"
+9,5f127f671ab28b001762c204,Warning,55f17c73-b2ae-4aeb-866e-b296cc881476,"Object with non-visible face, high occlusion, and no background color - Double check if object is a traffic sign"
+10,5f127f671ab28b001762c204,Warning,22df517a-b4b9-47b6-9785-fcee86cfc1ca,Item on the edge of screen can indicate a heavily truncated object or invalid labeling
+11,5f127f643a6b1000172320a5,Warning,699704b6-3e81-42b1-8131-b1686157ca26,Item on the edge of screen can indicate a heavily truncated object or invalid labeling
+12,5f127f5f3a6b100017232099,Warning,9a3eac82-aeca-48df-a58f-76179d26e8ac,Item on the edge of screen can indicate a heavily truncated object or invalid labeling
+13,5f127f5f3a6b100017232099,Warning,27f4e6b1-188f-4e92-8a3e-cd9dcee139c2,Item on the edge of screen can indicate a heavily truncated object or invalid labeling
+14,5f127f5f3a6b100017232099,Warning,1f4105b0-8651-4fdf-b673-b74136f56ad6,Item on the edge of screen can indicate a heavily truncated object or invalid labeling
+15,5f127f5f3a6b100017232099,Warning,ae0b82b0-76bf-4c14-9dce-7766da968ad3,"Object with non-visible face, high occlusion, and no background color - Double check if object is a traffic sign"
+16,5f127f5f3a6b100017232099,Warning,04e71569-03c4-48d6-b566-982df88560ff,Item on the edge of screen can indicate a heavily truncated object or invalid labeling
+17,5f127f5f3a6b100017232099,Warning,860bbaaf-b080-46e6-b8a4-80a0ca38b946,Item on the edge of screen can indicate a heavily truncated object or invalid labeling
+18,5f127f5f3a6b100017232099,Warning,0ac0c72e-d384-4039-80bb-7ac9d71a4d87,Item on the edge of screen can indicate a heavily truncated object or invalid labeling
+19,5f127f5f3a6b100017232099,Critical,25e6e90c-7acb-4786-a0fb-ca7b10fc3687,Large entity covering a large portion of image indicates likely error.
+20,5f127f5f3a6b100017232099,Warning,25e6e90c-7acb-4786-a0fb-ca7b10fc3687,Item on the edge of screen can indicate a heavily truncated object or invalid labeling
+21,5f127f5ab1cb1300109e4ffc,Critical,80d5d8f9-82f5-4369-87cf-78f0fd846e21,Traffic control sign is a non-traditional color. Check if sign color is blue
+22,5f127f5ab1cb1300109e4ffc,Warning,c4e5748f-0886-40a6-b819-ab4ce1ea81f8,"Object with non-visible face, high occlusion, and no background color - Double check if object is a traffic sign"
