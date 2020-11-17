@@ -53,14 +53,3 @@ with open('possible_errors.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerows(csv_rows)
 print(csv_rows)
-
-
-'''
-    for itr in obj["response"]["annotations"]:
-        if (itr["label"] == "non_visible_face" and
-            itr["attributes"]["truncation"] == "0%" and 
-            itr["attributes"]["occlusion"] == "0%" and
-            itr["attributes"]["background_color"] == "not_applicable"):
-                csv_rows.append([counter, task_id, itr["uuid"], "non_visible_face with 0% truncation and non-applicable background color indicates a likely error"])
-                counter += 1
-'''
